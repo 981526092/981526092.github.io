@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Centre for Artificial Intelligence, University College London</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
