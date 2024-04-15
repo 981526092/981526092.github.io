@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Centre for Artificial Intelligence, University College London</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='https://www.ucl.ac.uk/ai-centre/research'>Centre for Artificial Intelligence, University College London</a>. Affiliated with <a href="https://holisticai.com">Holistic AI</a>, Kings House, 18 Soho Square, London W1D 3QH. “Empowering sustainable and ethical AI.”
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Holistic AI</p>
+    <p>18 Soho Square, London W1D 3QH</p>
+    <p><a href='tel:+4407541369300'>+44 07541369300</a> | <a href='mailto:zekun.wu@holisticai.com'>zekun.wu@holisticai.com</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
